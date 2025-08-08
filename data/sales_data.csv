@@ -1,0 +1,6 @@
+OrderID,Product,Category,Quantity,Price,OrderDate
+1001,Laptop,Electronics,2,750,2024-05-21
+1002,Chair,Furniture,4,50,2024-06-10
+1003,Headphones,Electronics,5,25,2024-06-15
+1004,Desk,Furniture,1,150,2024-06-18
+1005,Monitor,Electronics,3,200,2024-07-01
