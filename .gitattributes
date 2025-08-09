@@ -1,8 +1,8 @@
 # Treat all .pbix files as Python (since Power BI isn't supported)
-*.pbix linguist-language=Python
+*.pbix linguist-language=PowerBI
 
 # Treat all .txt and .md files in PowerBI folder as Python too
-PowerBI/* linguist-language=Python
+PowerBI/* linguist-language=PowerBI
 
 # SQL files as SQL
 *.sql linguist-language=SQL
